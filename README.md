@@ -1,2 +1,2 @@
-# testRepo 12
-local
+# testRepo 13
+remote
