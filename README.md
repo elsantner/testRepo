@@ -1,2 +1,2 @@
 # testRepo 19
-remote
+local
