@@ -1,2 +1,2 @@
 # testRepo 28
-remot
+remote
